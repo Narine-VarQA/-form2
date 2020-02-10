@@ -1,0 +1,58 @@
+.person{
+	border: 1px solid none;
+	width: 850px;
+	height: 570px;
+	margin:0 auto;
+	background-color: lightblue;
+}
+.rd{
+	width: 600px;
+	height: 400px;
+	margin: 30px 60px 80px 120px
+}
+.dt{
+	color: black;
+	font-size: 18px;
+}
+.u{
+	margin-left:77px;
+}
+.i{
+	margin-left: 100px;
+}
+
+.br{
+	width: 150px;
+	margin-left: 100px;
+}
+.dg{
+	width: 90px;
+	margin-left: 100px;
+}
+.av{
+	width: 35px;
+	margin-left: 65px;
+}
+.sem{
+	width: 32px;
+}
+.exp{
+	width: 45px;
+	margin-left: 70px;
+}
+.dr{width: 180px;
+	margin-right: 90px;
+}	
+.st{border: 1px solid none;
+	width: 80px;
+	height: 20px;
+	margin:0 auto;
+	
+}
+.st1{
+	width: 15px;
+	height: 15px;
+	border: 1px solid;
+	color: green;
+	
+}
